@@ -363,7 +363,6 @@ Before submitting a contribution:
 
 **Looking for a VPS?**
 
-**[🌐 Compare VPS Plans on VPS Promo Hub →][vps]**
 
 </div>
 
