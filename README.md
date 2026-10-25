@@ -2,9 +2,18 @@
 
 # Awesome VPS
 
+[![GitHub stars](https://img.shields.io/github/stars/guanfff3/awesome-vps?style=flat-square&logo=github)](https://github.com/guanfff3/awesome-vps/stargazers)
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue?style=flat-square)](LICENSE)
+[![142 plans](https://img.shields.io/badge/plans-142-brightgreen?style=flat-square)](#-directory-snapshot)
+[![22 providers](https://img.shields.io/badge/providers-22-orange?style=flat-square)](#-vps-providers)
+
 A curated list of VPS plans, VPS deals, cloud servers, benchmarks, and self-hosting resources.
 
 Find VPS plans by price, CPU, RAM, storage, bandwidth, and more.
+
+**Last updated:** 2026-10-26
+
+Prices and specifications can change. Verify them on the linked site.
 
 <br>
 
