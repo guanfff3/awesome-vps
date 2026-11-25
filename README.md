@@ -265,6 +265,7 @@ Popular tools for running applications and services on VPS servers.
 - [Dokploy](https://dokploy.com/) - Open-source deployment platform.
 - [Portainer](https://www.portainer.io/) - Container management platform.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted uptime monitoring.
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted website monitoring with response-time history, TLS and domain expiry alerts, and public status pages.
 - [n8n](https://n8n.io/) - Workflow automation platform.
 - [Nextcloud](https://nextcloud.com/) - Self-hosted file synchronization and collaboration.
 - [Immich](https://immich.app/) - Self-hosted photo and video management.
